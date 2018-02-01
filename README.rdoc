@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbiow0lf%2Fredmine_landing_page.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbiow0lf%2Fredmine_landing_page?ref=badge_shield)
+
 = redmine_landing_page
 
 Landing Page plugin for redmine. Tested with redmine 3.0.x and MRI ruby:
@@ -11,3 +13,7 @@ For redmine 1.4.x see redmine-1.x branch.
 For redmine 2.6.x see redmine-2.x branch.
 
 Install to redmine/plugins directory and run "bundle exec rake redmine:plugins:migrate".
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbiow0lf%2Fredmine_landing_page.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbiow0lf%2Fredmine_landing_page?ref=badge_large)
